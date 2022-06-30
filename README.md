@@ -2,7 +2,9 @@
 
 In Space Invader, you have to shoot down your enemies before they reach your planet. The game is made using the python library pygame.
 
-![Space Invader](https://github.com/SouravSatheesh/Space-Invader-Game/blob/master/image.jpg?raw=true)
+<p align="center">
+  <img src="./space invader.png" width="550" title="Space Invader" alt="Space Invader">
+</p>
 
 ## To run the game
 
